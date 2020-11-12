@@ -13,10 +13,15 @@ on:
 jobs:
   spelling:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v2
       - name: Check spelling
         uses: check-spelling/check-spelling@0.0.16-alpha
+        with:
+          bucket: .github/actions
+          project: spelling
   links:
     runs-on: ubuntu-latest
     steps:

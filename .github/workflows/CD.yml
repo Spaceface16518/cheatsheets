@@ -1,0 +1,20 @@
+name: CD
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  makepdfs:
+    name: Make PDFs
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - uses: mkrakowitzer/actions-makepdfs@master
+      with:
+        markdown_dir: .
+        output_dir: tmp
+    - uses: actions/upload-artifact@v1
+      with:
+        name: cheatsheet-pdfs
+        path: tmp

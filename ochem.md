@@ -58,7 +58,7 @@ A **ketone** is similar to an aldehyde, but the **carbonyl group is on a non-ter
 
 Naming aldehydes is relatively easy because of their properties
 
-1. Aldehydes take [precedence](precedence) over alkyls, alcohols, ethers, and ketones. Since the carbonyl group will *always* be on the terminating carbon of a molecule, **start numbering the parent chain from the carbon in the carbonyl group**.
+1. Aldehydes take [precedence](#precedence) over alkyls, alcohols, ethers, and ketones. Since the carbonyl group will *always* be on the terminating carbon of a molecule, **start numbering the parent chain from the carbon in the carbonyl group**.
 2. The **suffix for an aldehyde is "-al"**, as in "propanal" or "2-methylbutanal".
 
 #### Rules for Ketones

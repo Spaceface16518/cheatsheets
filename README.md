@@ -8,4 +8,4 @@ These references are not a replacement for studying using actual study materials
 
 ## Available cheatsheets
 
-* [Organic chemistry](/cheatsheets/ochem)
+* [Organic chemistry](ochem.md)

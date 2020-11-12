@@ -12,7 +12,7 @@ An **alkene** is an organic molecule with **one or more double carbon-to-carbon 
 
 An **alkyne** is an organic molecule with **one or more *triple* carbon-to-carbon bonds**
 
-#### Rules for alkenes and alkynes
+#### Rules for alkene and alkyne
 
 1. Multiple bond [trumps](#precedence) alkyl functional groups groups when it comes to carbon numbering. Number carbons so that the **parent chain includes the multiple bond and that it is on the lowest possible carbon**.
 2. Must mention location of multiple bond on a **chain of length > 3**
@@ -23,14 +23,16 @@ An **alcohol** is an organic molecule ending with an alcohol **functional group 
 
 An **ether** is a carbon chain "interrupted" by an Oxygen molecule with the **structure R-O-R**. There are two popular naming schemes for ethers, but we use IUPAC naming.
 
+![Ether Structure](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ether-%28general%29.png/1200px-Ether-%28general%29.png)
+
 #### Rules for Alcohols
 
 The fact that a molecule is an alcohol takes [precedence](#precedence) over whether it is an alkane/alkene/alkyne. Therefore,
 
 1. You must number carbons so that the **parent chain includes the OH group and that it is on the lowest possible carbon**
 2. You must mention the number of the carbon when the **length of the chain is ≥ 3.**
-3. The suffix of an alcoholic alkyl would be, for example, methanol, ethenol, or propynol.
-   If there are multiple OH groups, the suffix is preceded by the **standard multiple functional group label (e.g. "-diol")**.
+3. The suffix of an alcoholic alkyl would be **"-ol"**, for example, methanol, ethenol, or propynol.
+   If there are multiple OH groups, the suffix is preceded by the standard multiple functional group label (e.g. "-diol").
 
 #### Rules for Ethers
 
@@ -85,7 +87,7 @@ This list is updated based on where we are in class. Look at the [wikipedia prec
 
 When you have groups of the same precedence but different length, you order the groups alphabetically. This takes precedence over their numerical order (e.g. "4-ethyl-2-methyl").
 
-When you have identical groups on different carbons, the groups are combined with a prefix (e.g. "dimethyl") and the numbers are listed with commas in ascending order (e.g. "3,4-dimethyl"). If they are bonded to the same carbon, the number is listed twice (e.g. "3,3-dimethyl")
+When you have identical groups on different carbons, the groups are combined with a prefix (e.g. "dimethyl") and the numbers are listed with commas in ascending order (e.g. "3,4-dimethyl"). If they are bonded to the same carbon, the number is listed twice (e.g. "3,3-dimethyl").
 
 ##### ≥ 3? > 3?? Which one is it?
 

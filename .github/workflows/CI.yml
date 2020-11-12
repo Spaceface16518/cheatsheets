@@ -1,0 +1,35 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+  pull_request:
+    branches: [ master ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  correctness:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Check spelling
+        uses: check-spelling/check-spelling@0.0.16-alpha
+
+      - name: Check links
+        uses: gaurav-nelson/github-action-markdown-link-check@1.0.8
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Lint markdown
+        uses: avto-dev/markdown-lint@v1
+        with:
+          args: '**/*.md'
+        
+      
+
+

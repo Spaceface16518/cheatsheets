@@ -6,6 +6,6 @@ As per the MIT license, I am not responsible if any of these materials are used 
 
 These references are not a replacement for studying using actual study materials. They are only meant to be a convenient compilation of information. I hope they come in handy, though. Enjoy!
 
-## Availble cheatsheets
+## Available cheatsheets
 
 * [Organic chemistry](/cheatsheets/ochem)

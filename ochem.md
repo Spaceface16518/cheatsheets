@@ -4,7 +4,7 @@ This cheatsheet is to be used as a reference. It is not a substitution for actua
 
 ## Nomenclature
 
-### Carbon chains
+### Alkyls
 
 An **alkane** is an organic molecule with **only single carbon-to-carbon bonds**
 
@@ -99,4 +99,4 @@ Functional groups, on the other hand, involve only one carbon, so the ambiguity 
 
 ## List of Functional Groups
 
-TODO: Table of useful functional groups. In the meantime, refer to [the wikipedia page on functional groups](https://en.wikipedia.org/wiki/Functional_group).
+I will put a table of useful functional groups here. In the meantime, refer to [the wikipedia page on functional groups](https://en.wikipedia.org/wiki/Functional_group).

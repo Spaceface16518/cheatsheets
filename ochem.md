@@ -46,13 +46,13 @@ Ethers are change in the pattern of [precedence](#precedence) observed so far. W
 
 A **carbonyl group** is a carbon double bonded to an oxygen (C=O). Understanding and recognizing group is the key to identifying and naming both aldehydes and ketones.
 
-![Carbonyl Group Structure](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ketone-general.svg/1200px-Ketone-general.svg.png)
-
 An **aldehyde** is an organic molecule **terminated by a carbonyl group bonded to a hydrogen**. Aldehydes tend to have strong odors. Famous examples are formaldehyde and cinnamaldehyde.
 
 ![Aldehyde Structure](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Aldehyde_general_structure.svg/1200px-Aldehyde_general_structure.svg.png)
 
 A **ketone** is similar to an aldehyde, but the **carbonyl group is on a non-terminating carbon** (i.e. somewhere in the middle of the molecule). Famous examples include acetone.
+
+![Ketone Structure](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ketone-general.svg/1200px-Ketone-general.svg.png)
 
 #### Rules for Aldehydes
 

@@ -4,7 +4,7 @@ This cheatsheet is to be used as a reference. It is not a substitution for actua
 
 ## Nomenclature
 
-### Carbon chains
+### Alkyls
 
 An **alkane** is an organic molecule with **only single carbon-to-carbon bonds**
 
@@ -46,13 +46,13 @@ Ethers are change in the pattern of [precedence](#precedence) observed so far. W
 
 A **carbonyl group** is a carbon double bonded to an oxygen (C=O). Understanding and recognizing group is the key to identifying and naming both aldehydes and ketones.
 
-![Carbonyl Group Structure](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ketone-general.svg/1200px-Ketone-general.svg.png)
-
 An **aldehyde** is an organic molecule **terminated by a carbonyl group bonded to a hydrogen**. Aldehydes tend to have strong odors. Famous examples are formaldehyde and cinnamaldehyde.
 
 ![Aldehyde Structure](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Aldehyde_general_structure.svg/1200px-Aldehyde_general_structure.svg.png)
 
 A **ketone** is similar to an aldehyde, but the **carbonyl group is on a non-terminating carbon** (i.e. somewhere in the middle of the molecule). Famous examples include acetone.
+
+![Ketone Structure](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ketone-general.svg/1200px-Ketone-general.svg.png)
 
 #### Rules for Aldehydes
 
@@ -69,17 +69,35 @@ Naming ketones is slightly more difficult. It's all about finding the carbonyl g
 2. Number the carbons to **give the ketone the lowest number possible**. **The number will *always* need to be placed in front of the ketone** (e.g. "**2-**propanone"), and can never be 1 or *n* on an *n* carbon chain (because that would just make it an aldehyde).
 3. Ketones get the **suffix "-one"**, as in "2-butanone" or "3-methyl-2-heptanone".
 
+### Carboxylic Acids
+
+**Carboxylic acids** are similar to aldehydes and ketones, but are **bonded to an OOH group** (a.k.a. a carbonyl group) instead of an OH (like alcohols), H (like aldehydes) or another carbon group R (like ketones).
+
+![Carboxylic Acid Structure](https://upload.wikimedia.org/wikipedia/commons/b/b5/Carboxylic-acid.svg)
+
+Structurally, the only difference between carboxylic acids and alcohols is that in alcohols, the carbon of the functional group is only attached to an OH, whereas in carboyxlic acids, the carbon is double-bonded to an O as well as bonded to an OH.
+You can use this feature to differentiate them.
+
+Examples of famous carboxylic acids include acetic acid (the acid in vinegar) and formic acid (occurs naturally in ants). Remember that these are the acids' common names, but we use their systematic names.
+
+#### Rules for Carboxylic Acids
+
+1. Carboxylic Acids have the highest precedence of all functional groups so far, so the longest chain must include the carboxylic acid.
+2. The carbon in the carboxylic acid becomes the first carbon of the chain.
+3. Carboxylic acids get the suffix "-oic acid", as in "methanoic acid" or "4-methylpentanoic acid".
+
 ### General nomenclature information
 
 #### Precedence
 
 This list is updated based on where we are in class. Look at the [wikipedia precedence list](https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry#Order_of_precedence_of_groups) for a more complete list.
 
-1. Aldehydes
-2. Ketones
-3. Alcohols
-4. Ethers
-5. Alkyls
+1. Carboxylic acids
+2. Aldehydes
+3. Ketones
+4. Alcohols
+5. Ethers
+6. Alkyls
 
 #### Ordering
 
@@ -99,4 +117,4 @@ Functional groups, on the other hand, involve only one carbon, so the ambiguity 
 
 ## List of Functional Groups
 
-TODO: Table of useful functional groups. In the meantime, refer to [the wikipedia page on functional groups](https://en.wikipedia.org/wiki/Functional_group).
+I will put a table of useful functional groups here. In the meantime, refer to [the wikipedia page on functional groups](https://en.wikipedia.org/wiki/Functional_group).

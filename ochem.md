@@ -69,17 +69,33 @@ Naming ketones is slightly more difficult. It's all about finding the carbonyl g
 2. Number the carbons to **give the ketone the lowest number possible**. **The number will *always* need to be placed in front of the ketone** (e.g. "**2-**propanone"), and can never be 1 or *n* on an *n* carbon chain (because that would just make it an aldehyde).
 3. Ketones get the **suffix "-one"**, as in "2-butanone" or "3-methyl-2-heptanone".
 
+### Carboxylic Acids
+
+**Carboxylic acids** are similar to aldehydes and ketones, but are **bonded to an OOH group** (a.k.a. a carbonyl group) instead of an OH (like alcohols), H (like aldehydes) or another carbon group R (like ketones).
+
+![Carboxylic Acid Structure](https://upload.wikimedia.org/wikipedia/commons/b/b5/Carboxylic-acid.svg)
+
+Structurally, the only difference between carboxylic acids and alchohols is that in alcohols, the carbon of the functional group is only attached to an OH, whereas in carboyxlic acids, the carbon is double-bonded to an O as well as bonded to an OH.
+You can use this feature to differentiate them.
+
+#### Rules for Carboxylic Acids
+
+1. Carboxylic Acids have the highest precedence of all functional groups so far, so the longest chain must include the carboylic acid.
+2. The carbon in the carboxylic acid becomes the first carbon of the chain.
+3. Carboxylic acids get the suffix "-oic acid", as in "methanoic acid" or "4-methylpentanoic acid".
+
 ### General nomenclature information
 
 #### Precedence
 
 This list is updated based on where we are in class. Look at the [wikipedia precedence list](https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry#Order_of_precedence_of_groups) for a more complete list.
 
-1. Aldehydes
-2. Ketones
-3. Alcohols
-4. Ethers
-5. Alkyls
+1. Carboxylic acids
+2. Aldehydes
+3. Ketones
+4. Alcohols
+5. Ethers
+6. Alkyls
 
 #### Ordering
 

@@ -75,14 +75,14 @@ Naming ketones is slightly more difficult. It's all about finding the carbonyl g
 
 ![Carboxylic Acid Structure](https://upload.wikimedia.org/wikipedia/commons/b/b5/Carboxylic-acid.svg)
 
-Structurally, the only difference between carboxylic acids and alchohols is that in alcohols, the carbon of the functional group is only attached to an OH, whereas in carboyxlic acids, the carbon is double-bonded to an O as well as bonded to an OH.
+Structurally, the only difference between carboxylic acids and alcohols is that in alcohols, the carbon of the functional group is only attached to an OH, whereas in carboyxlic acids, the carbon is double-bonded to an O as well as bonded to an OH.
 You can use this feature to differentiate them.
 
-Examples of famous carbonxylic acids include acetic acid (the acid in vinegar) and formic acid (occurrs naturally in ants). Remember that these are the acids' common names, but we use their systematic names.
+Examples of famous carboxylic acids include acetic acid (the acid in vinegar) and formic acid (occurs naturally in ants). Remember that these are the acids' common names, but we use their systematic names.
 
 #### Rules for Carboxylic Acids
 
-1. Carboxylic Acids have the highest precedence of all functional groups so far, so the longest chain must include the carboylic acid.
+1. Carboxylic Acids have the highest precedence of all functional groups so far, so the longest chain must include the carboxylic acid.
 2. The carbon in the carboxylic acid becomes the first carbon of the chain.
 3. Carboxylic acids get the suffix "-oic acid", as in "methanoic acid" or "4-methylpentanoic acid".
 

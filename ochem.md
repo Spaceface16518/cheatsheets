@@ -1,6 +1,6 @@
 # Organic Chemistry
 
-This cheatsheet is to be used as a reference. It is meant to be read in order. If you find something wrong, [file an issue](https://github.com/Spaceface16518/cheatsheets/issues/new), [email](amrit.rathie@gmail.com) me or [reach out to me some other way](amritrathie.now.sh) and I'll fix it.
+This cheatsheet is to be used as a reference. It is meant to be read in order. If you find something wrong, [file an issue](https://github.com/Spaceface16518/cheatsheets/issues/new), [email](mailto:amrit.rathie@gmail.com) me or [reach out to me some other way](https://amritrathie.now.sh) and I'll fix it.
 
 It is not a substitution for actually studying. It can help you remember stuff you've already learned, but if you don't know what you're doing, it won't help.
 

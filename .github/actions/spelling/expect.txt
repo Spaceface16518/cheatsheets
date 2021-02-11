@@ -5,6 +5,7 @@ github
 gmail
 https
 IUPAC
+mailto
 methylbutanal
 methylpentanoic
 NONINFRINGEMENT

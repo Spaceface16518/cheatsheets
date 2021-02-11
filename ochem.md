@@ -23,7 +23,7 @@ bonds**
 An **alkene** is an organic molecule with **one or more double carbon-to-carbon
 bonds**
 
-##### Rules
+##### Alkene Rules
 
 1. Alkenes take [precendence](#precedence) over alkyl functional groups when it
    comes to carbon numbering. Number carbons so that the **parent chain
@@ -35,7 +35,7 @@ bonds**
 An **alkyne** is an organic molecule with **one or more *triple*
 carbon-to-carbon bonds**
 
-##### Rules
+##### Alkyne Rules
 
 1. Alkynes take [precedence](#precedence) over alkyl functional groups when it
    comes to carbon numbering. Number carbons so that the **parent chain
@@ -51,7 +51,7 @@ An **alcohol** is an organic molecule ending with an alcohol **functional group
 
 Alcohols take [precedence](#precedence) over plain hydrocarbons.
 
-##### Rules
+##### Alcohol Rules
 
 1. You must number carbons so that the **parent chain includes the OH group and
    that it is on the lowest possible carbon**
@@ -74,9 +74,9 @@ Ethers are change in the pattern of [precedence](#precedence) observed so far.
 We use the IUPAC naming scheme for naming ethers, so they do not take
 precedence.
 
-##### Rules
+##### Ether Rules
 
-1.  Of the groups on either side of the Oxygen molecule, the **longer group is
+1. Of the groups on either side of the Oxygen molecule, the **longer group is
     the parent chain**.
 2. The attached group has the **suffix "-oxy"** because it has an oxygen on the
    end of it (e.g. "methoxy", "ethoxy").  You must **mention the position** of
@@ -100,7 +100,7 @@ formaldehyde and cinnamaldehyde.
 
 Naming aldehydes is relatively easy because of their properties.
 
-##### Rules
+##### Aldehyde Rules
 
 1. Aldehydes take [precedence](#precedence) over alkyls, alcohols, ethers, and
    ketones. Since the carbonyl group will *always* be on the terminating carbon
@@ -120,7 +120,7 @@ examples include acetone.
 Naming ketones is slightly more difficult. It's all about finding the carbonyl
 group.
 
-##### Rules
+##### Ketone Rules
 
 1. Ketones take [precedence](#precedence) over alkyls, alcohols, and ethers
    (but not aldehydes!). The **carbon in the carbonyl group must be part of the
@@ -151,7 +151,7 @@ Examples of famous carboxylic acids include acetic acid (the acid in vinegar)
 and formic acid (occurs naturally in ants). Remember that these are the acids'
 common names, but we use their systematic names.
 
-##### Rules
+##### Carboxylic acid Rules
 
 1. Carboxylic Acids have the **highest precedence** of all functional groups
    **so far**, so the **longest chain must include the carboxylic acid**.

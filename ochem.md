@@ -25,7 +25,7 @@ bonds**
 
 ##### Alkene Rules
 
-1. Alkenes take [precendence](#precedence) over alkyl functional groups when it
+1. Alkenes take [precedence](#precedence) over alkyl functional groups when it
    comes to carbon numbering. Number carbons so that the **parent chain
    includes the multiple bond and that it is on the lowest possible carbon**.
 2. Must mention location of multiple bond on a **chain of length > 3**
@@ -144,7 +144,7 @@ an OOH group** (a.k.a. a carbonyl group) instead of an OH (like alcohols), H
 
 Structurally, the only difference between carboxylic acids and alcohols is that
 in alcohols, the carbon of the functional group is only attached to an OH,
-whereas in carboyxlic acids, the carbon is double-bonded to an O as well as
+whereas in carboxylic acids, the carbon is double-bonded to an O as well as
 bonded to an OH.  You can use this feature to differentiate them.
 
 Examples of famous carboxylic acids include acetic acid (the acid in vinegar)

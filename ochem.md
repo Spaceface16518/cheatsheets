@@ -1,42 +1,59 @@
 # Organic Chemistry
 
-This cheatsheet is to be used as a reference. It is not a substitution for actually studying. It can help you remember stuff you've already learned, but if you don't know what you're doing, it won't help.
+This cheatsheet is to be used as a reference. It is meant to be read in order. If you find something wrong, [file an issue](https://github.com/Spaceface16518/cheatsheets/issues/new), [email](amrit.rathie@gmail.com) me or [reach out to me some other way](amritrathie.now.sh) and I'll fix it.
+
+It is not a substitution for actually studying. It can help you remember stuff you've already learned, but if you don't know what you're doing, it won't help.
 
 ## Nomenclature
 
-### Alkyls
+### Hydrocarbons
+
+#### Alkanes
 
 An **alkane** is an organic molecule with **only single carbon-to-carbon bonds**
 
+#### Alkenes
+
 An **alkene** is an organic molecule with **one or more double carbon-to-carbon bonds**
+
+##### Rules
+
+1. Alkenes take [precendence](#precedence) over alkyl functional groups when it comes to carbon numbering. Number carbons so that the **parent chain includes the multiple bond and that it is on the lowest possible carbon**.
+2. Must mention location of multiple bond on a **chain of length > 3**
+
+#### Alkyne
 
 An **alkyne** is an organic molecule with **one or more *triple* carbon-to-carbon bonds**
 
-#### Rules for alkene and alkyne
+##### Rules
 
-1. Multiple bond [trumps](#precedence) alkyl functional groups groups when it comes to carbon numbering. Number carbons so that the **parent chain includes the multiple bond and that it is on the lowest possible carbon**.
+1. Alkynes take [precedence](#precedence) over alkyl functional groups when it comes to carbon numbering. Number carbons so that the **parent chain includes the multiple bond and that it is on the lowest possible carbon**.
 2. Must mention location of multiple bond on a **chain of length > 3**
 
 ### Alcohols and Ethers
 
+#### Alcohols
+
 An **alcohol** is an organic molecule ending with an alcohol **functional group (OH)**. They have the suffix "-ol".
 
-An **ether** is a carbon chain "interrupted" by an Oxygen molecule with the **structure R-O-R**. There are two popular naming schemes for ethers, but we use IUPAC naming.
+Alcohols take [precedence](#precedence) over plain hydrocarbons.
 
-![Ether Structure](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ether-%28general%29.png/1200px-Ether-%28general%29.png)
-
-#### Rules for Alcohols
-
-The fact that a molecule is an alcohol takes [precedence](#precedence) over whether it is an alkane/alkene/alkyne. Therefore,
+##### Rules
 
 1. You must number carbons so that the **parent chain includes the OH group and that it is on the lowest possible carbon**
 2. You must mention the number of the carbon when the **length of the chain is ≥ 3.**
 3. The suffix of an alcoholic alkyl would be **"-ol"**, for example, methanol, ethenol, or propynol.
    If there are multiple OH groups, the suffix is preceded by the standard multiple functional group label (e.g. "-diol").
 
-#### Rules for Ethers
+#### Ethers
+
+An **ether** is a carbon chain "interrupted" by an Oxygen molecule with the **structure R-O-R**. There are two popular naming schemes for ethers, but we use IUPAC naming.
+
+![Ether Structure](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ether-%28general%29.png/1200px-Ether-%28general%29.png)
 
 Ethers are change in the pattern of [precedence](#precedence) observed so far. We use the IUPAC naming scheme for naming ethers, so they do not take precedence.
+
+##### Rules
 
 1.  Of the groups on either side of the Oxygen molecule, the **longer group is the parent chain**.
 2. The attached group has the **suffix "-oxy"** because it has an oxygen on the end of it (e.g. "methoxy", "ethoxy").
@@ -44,32 +61,40 @@ Ethers are change in the pattern of [precedence](#precedence) observed so far. W
 
 ### Aldehydes and Ketones
 
+#### Carbonyl groups
+
 A **carbonyl group** is a carbon double bonded to an oxygen (C=O). Understanding and recognizing group is the key to identifying and naming both aldehydes and ketones.
+
+#### Aldehydes
 
 An **aldehyde** is an organic molecule **terminated by a carbonyl group bonded to a hydrogen**. Aldehydes tend to have strong odors. Famous examples are formaldehyde and cinnamaldehyde.
 
 ![Aldehyde Structure](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Aldehyde_general_structure.svg/1200px-Aldehyde_general_structure.svg.png)
 
-A **ketone** is similar to an aldehyde, but the **carbonyl group is on a non-terminating carbon** (i.e. somewhere in the middle of the molecule). Famous examples include acetone.
+Naming aldehydes is relatively easy because of their properties.
 
-![Ketone Structure](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ketone-general.svg/1200px-Ketone-general.svg.png)
-
-#### Rules for Aldehydes
-
-Naming aldehydes is relatively easy because of their properties
+##### Rules
 
 1. Aldehydes take [precedence](#precedence) over alkyls, alcohols, ethers, and ketones. Since the carbonyl group will *always* be on the terminating carbon of a molecule, **start numbering the parent chain from the carbon in the carbonyl group**.
 2. The **suffix for an aldehyde is "-al"**, as in "propanal" or "2-methylbutanal".
 
-#### Rules for Ketones
+#### Ketones
+
+A **ketone** is similar to an aldehyde, but the **carbonyl group is on a non-terminating carbon** (i.e. somewhere in the middle of the molecule). Famous examples include acetone.
+
+![Ketone Structure](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ketone-general.svg/1200px-Ketone-general.svg.png)
 
 Naming ketones is slightly more difficult. It's all about finding the carbonyl group.
+
+##### Rules
 
 1. Ketones take [precedence](#precedence) over alkyls, alcohols, and ethers (but not aldehydes!). The **carbon in the carbonyl group must be part of the parent chain.**
 2. Number the carbons to **give the ketone the lowest number possible**. **The number will *always* need to be placed in front of the ketone** (e.g. "**2-**propanone"), and can never be 1 or *n* on an *n* carbon chain (because that would just make it an aldehyde).
 3. Ketones get the **suffix "-one"**, as in "2-butanone" or "3-methyl-2-heptanone".
 
-### Carboxylic Acids
+### Carboxylic Acids and derivatives
+
+#### Carboxylic acids
 
 **Carboxylic acids** are similar to aldehydes and ketones, but are **bonded to an OOH group** (a.k.a. a carbonyl group) instead of an OH (like alcohols), H (like aldehydes) or another carbon group R (like ketones).
 
@@ -80,11 +105,11 @@ You can use this feature to differentiate them.
 
 Examples of famous carboxylic acids include acetic acid (the acid in vinegar) and formic acid (occurs naturally in ants). Remember that these are the acids' common names, but we use their systematic names.
 
-#### Rules for Carboxylic Acids
+##### Rules
 
-1. Carboxylic Acids have the highest precedence of all functional groups so far, so the longest chain must include the carboxylic acid.
-2. The carbon in the carboxylic acid becomes the first carbon of the chain.
-3. Carboxylic acids get the suffix "-oic acid", as in "methanoic acid" or "4-methylpentanoic acid".
+1. Carboxylic Acids have the **highest precedence** of all functional groups **so far**, so the **longest chain must include the carboxylic acid**.
+2. The **carbon in the carboxylic acid becomes the first carbon** of the chain.
+3. Carboxylic acids get the **suffix "-oic acid"**, as in "methanoic acid" or "4-methylpentanoic acid".
 
 ### General nomenclature information
 
@@ -92,12 +117,14 @@ Examples of famous carboxylic acids include acetic acid (the acid in vinegar) an
 
 This list is updated based on where we are in class. Look at the [wikipedia precedence list](https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry#Order_of_precedence_of_groups) for a more complete list.
 
-1. Carboxylic acids
-2. Aldehydes
-3. Ketones
-4. Alcohols
-5. Ethers
-6. Alkyls
+1. [Carboxylic acids](#carboxylic-acids)
+2. [Aldehydes](#aldehydes)
+3. [Ketones](#ketones)
+4. [Alcohols](#alcohols)
+5. [Ethers](#ethers)
+6. [Alkynes](#alkynes)
+7. [Alkenes](#alkenes)
+8. [Alkanes](#alkanes)
 
 #### Ordering
 
